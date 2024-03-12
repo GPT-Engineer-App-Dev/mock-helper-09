@@ -54,7 +54,6 @@ const Index = () => {
         ))}
       </List>
       <Footer />
-      <Footer />
     </VStack>
   );
 };
